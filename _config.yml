@@ -14,7 +14,7 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
+remote_theme: mmistakes/minimal-mistakes
 
 # SNS settings
 RSS: false
@@ -77,7 +77,7 @@ kramdown:
 # ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'G-K1PG9MLG9P'            # Format: UA-xxxxxx-xx
+# ga_track_id: 'G-K1PG9MLG9P'            # Format: UA-xxxxxx-xx
 # ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
